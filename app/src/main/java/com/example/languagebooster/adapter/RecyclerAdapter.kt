@@ -76,7 +76,7 @@ class RecyclerAdapter(var wordList: ArrayList<Words>) :
 
 
     /**
-     *  this metod change the star to stroke or fill
+     *  this method change the star to stroke or fill
      */
     private fun setStar(
         holder: WordHolder,

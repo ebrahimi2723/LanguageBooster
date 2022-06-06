@@ -46,6 +46,7 @@
 
     <soup.neumorphism.NeumorphFloatingActionButton
         style="@style/Neumorphism_Circle"
+        android:id="@+id/fab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginEnd="16dp"

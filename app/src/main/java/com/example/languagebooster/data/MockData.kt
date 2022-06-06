@@ -7,7 +7,7 @@ object MockData {
     public fun addToList(words: Words){
         list.add(words)
     }
-    public fun grtListWord():ArrayList<Words>{
+    public fun getListWord():ArrayList<Words>{
         return list
     }
 }

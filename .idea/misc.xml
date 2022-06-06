@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/a/AndroidStudioProjects/LanguageBooster/app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.1" />
         <entry key="..\:/Users/a/AndroidStudioProjects/LanguageBooster/app/src/main/res/font/advent_pro_medium.xml" value="0.39791666666666664" />
         <entry key="..\:/Users/a/AndroidStudioProjects/LanguageBooster/app/src/main/res/layout/activity_main.xml" value="0.36770833333333336" />
-        <entry key="..\:/Users/a/AndroidStudioProjects/LanguageBooster/app/src/main/res/layout/recycler_view_row.xml" value="0.36770833333333336" />
+        <entry key="..\:/Users/a/AndroidStudioProjects/LanguageBooster/app/src/main/res/layout/recycler_view_row.xml" value="0.1" />
       </map>
     </option>
   </component>
