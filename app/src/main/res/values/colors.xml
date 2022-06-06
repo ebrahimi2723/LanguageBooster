@@ -10,7 +10,7 @@
 
 
 <!--     my color         -->
-    <color name="main_light">#EFEFEF</color>
+    <color name="main">#EFEFEF</color>
     <color name="main_Dark">#1A1A1A</color>
     <color name="light_shadow">#ffff</color>
     <color name="Dark_shadow">#dbdbdb</color>
