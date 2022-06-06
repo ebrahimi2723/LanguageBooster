@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Language Booster</string>
     <string name="language_booster">Language Booster</string>
+    <string name="it_is_item_1">it is item 1 : این ایتم یک است</string>
 </resources>

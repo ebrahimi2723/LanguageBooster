@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:fontFamily="monospace"
+        android:fontFamily="@font/advent_pro_medium"
         android:text="@string/language_booster"
         android:textFontWeight="800"
         android:textSize="22sp"
@@ -45,18 +45,19 @@
     </soup.neumorphism.NeumorphCardView>
 
     <soup.neumorphism.NeumorphFloatingActionButton
-        android:layout_marginEnd="16dp"
-        android:layout_marginBottom="16dp"
-        android:padding="28dp"
+        style="@style/Neumorphism_Circle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/add24"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="16dp"
+        android:background="@color/main"
+        android:padding="28dp"
+        android:src="@drawable/add_24_dark"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:neumorph_shadowElevation="5dp"
-        android:background="@color/main"
-        app:neumorph_shadowColorLight="@color/light_shadow"
         app:neumorph_shadowColorDark="@color/Dark_shadow"
-        style="@style/Neumorphism_Circle"/>
+        app:neumorph_shadowColorLight="@color/light_shadow"
+        app:neumorph_shadowElevation="5dp"
+        tools:ignore="SpeakableTextPresentCheck,ImageContrastCheck" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
