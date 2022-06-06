@@ -1,4 +1,4 @@
-package com.example.languagebooster
+package model
 
 data class Words(
     var keyword:String,
